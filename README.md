@@ -1,0 +1,5 @@
+TECHIN 514 EE Foundamentals Lab 
+XIAO ESP32 CODE
+
+Freya Yu 2372732
+Jan 16 2024
